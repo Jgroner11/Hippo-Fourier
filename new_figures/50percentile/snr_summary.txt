@@ -1,0 +1,6 @@
+Percentile: 50
+Cells plotted: 3
+
+rank=1396  cell=2753  SNR_day14=10.494281
+rank=1397  cell=2195  SNR_day14=10.488115
+rank=1398  cell= 299  SNR_day14=10.473447

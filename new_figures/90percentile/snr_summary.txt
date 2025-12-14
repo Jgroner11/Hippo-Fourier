@@ -1,0 +1,6 @@
+Percentile: 90
+Cells plotted: 3
+
+rank= 278  cell= 329  SNR_day14=24.385470
+rank= 279  cell=2009  SNR_day14=24.335172
+rank= 280  cell=2621  SNR_day14=24.329387

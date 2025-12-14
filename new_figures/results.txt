@@ -1,0 +1,21 @@
+=== Lomb–Scargle Place SNR Summary ===
+Mouse: 26
+Track length: 180.0 cm; f_place = 0.00555556 1/cm
+n_cells (intersection across all sessions): 2795
+Scoring grid: n_freqs=1000, f_min=0.0, f_max=0.05
+
+Per-session SNR distribution (mean ± std):
+  day1 : mean = 6.475793, std = 5.960351
+  day7 : mean = 9.159017, std = 8.025227
+  day14: mean = 11.805940, std = 8.208296
+
+Top 3 cells (ranked by day14 SNR):
+  cell  113 | day1= 6.107804  day7= 26.934939  day14= 30.623870
+  cell 2426 | day1= 3.469274  day7=-0.402316  day14= 30.590726
+  cell 1566 | day1= 22.414740  day7= 23.267012  day14= 30.411376
+
+Bottom 3 cells (ranked by day14 SNR):
+  cell 1802 | day1= 11.327063  day7= 0.598318  day14=-1.184907
+  cell 1115 | day1=-0.351805  day7= 3.132827  day14=-0.998581
+  cell 2749 | day1= 1.038916  day7= 5.610490  day14=-0.980233
+
