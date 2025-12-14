@@ -162,7 +162,7 @@ def main():
     X14_cells = X14_cells[:n_cells]
 
     # ---------- OUTPUT DIRS ----------
-    fig_dir = Path("new_figures")
+    fig_dir = Path("results")
     fig_dir.mkdir(exist_ok=True)
     highest_dir = fig_dir / "highest"
     lowest_dir = fig_dir / "lowest"

@@ -5,7 +5,7 @@ Plots n_cells around a chosen percentile of DAY 14 rankings and
 prints the DAY 14 SNR for each plotted cell.
 
 Outputs:
-  new_figures/<percentile>percentile/
+  results/<percentile>percentile/
     cell_<cell_id>/
       day1_*.*
       day7_*.*
@@ -26,7 +26,7 @@ from helpers import (
 
 # ------------------ USER VARIABLES ------------------
 n_cells = 3      # number of cells to plot
-percentile = 40    # percentile in DAY 14 ranking (0=best, 100=worst)
+percentile = 20    # percentile in DAY 14 ranking (0=best, 100=worst)
 # ----------------------------------------------------
 
 track_length = 180.0
@@ -35,7 +35,7 @@ day1_file  = "2025-08-21-16-35-48-370149.feather"
 day7_file  = "2025-08-27-17-18-55-361099.feather"
 day14_file = "2025-09-03-17-02-46-836208.feather"
 
-rankings_npz = Path("new_figures") / "cell_rankings_by_session.npz"
+rankings_npz = Path("results") / "cell_rankings_by_session.npz"
 
 PLOT_N_FREQS = 50000
 PLOT_F_MIN = 0.0
@@ -102,7 +102,7 @@ def main():
 
     selected_cells = day14_rank[start:end]
 
-    out_dir = Path("new_figures") / f"{int(percentile)}percentile"
+    out_dir = Path("results") / f"{int(percentile)}percentile"
     out_dir.mkdir(parents=True, exist_ok=True)
 
     # Load sessions

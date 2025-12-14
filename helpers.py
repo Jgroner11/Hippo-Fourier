@@ -199,7 +199,7 @@ def plot_raw_signal(t, y, cell=0, plotfile="raw_signal.png"):
     print(f"[RAW] Saved raw signal plot to: {plotfile}")
 
 def print_cell_scores_and_percentiles(cell_id):
-    npz_path = "new_figures/cell_rankings_by_session.npz"
+    npz_path = "results/cell_rankings_by_session.npz"
     data = np.load(npz_path)
 
     scores = {
