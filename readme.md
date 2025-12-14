@@ -23,7 +23,6 @@ The primary outputs are in the `results/` directory.
 - `helpers.py` — Lomb–Scargle, SNR, and plotting utilities  
 - `multisession_place_cell_ranking.py` — ranks cells across Day 1 / 7 / 14  
 - `plot_specific_percentile.py` — visualizes cells at chosen SNR percentiles  
-- `*.feather` — session data files  
 - `results/` — all figures and summary statistics
 
 ---
