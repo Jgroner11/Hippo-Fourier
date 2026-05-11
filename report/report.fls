@@ -1,6 +1,6 @@
-PWD c:\Users\jacob\OneDrive\Desktop\Astro4523\final
+PWD c:\Users\jacob\OneDrive\Desktop\School\Astro4523\Hippo-Fourier\report
 INPUT C:\Users\jacob\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\jacob\OneDrive\Desktop\Astro4523\final\report.tex
+INPUT c:\Users\jacob\OneDrive\Desktop\School\Astro4523\Hippo-Fourier\report\report.tex
 OUTPUT report.log
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT .\aastex701.cls
@@ -124,6 +124,9 @@ INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\report.aux
+INPUT .\report.aux
+INPUT report.aux
 OUTPUT report.aux
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -136,8 +139,14 @@ INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-OUTPUT report.out
+INPUT .\report.out
+INPUT .\report.out
+INPUT report.out
+INPUT report.out
 OUTPUT report.pdf
+INPUT .\report.out
+INPUT .\report.out
+OUTPUT report.out
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
@@ -191,7 +200,6 @@ INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tf
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy10.tfm
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
 INPUT C:\Users\jacob\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT .\vr_setup.png
@@ -298,8 +306,6 @@ INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx8.pfb
-INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx8.pfb
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\jacob\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb

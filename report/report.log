@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.16)  4 FEB 2026 21:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.16)  11 MAY 2026 14:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/jacob/OneDrive/Desktop/Astro4523/final/report.tex
-(c:/Users/jacob/OneDrive/Desktop/Astro4523/final/report.tex
+**c:/Users/jacob/OneDrive/Desktop/School/Astro4523/Hippo-Fourier/report/report.tex
+(c:/Users/jacob/OneDrive/Desktop/School/Astro4523/Hippo-Fourier/report/report.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (aastex701.cls
@@ -481,8 +481,7 @@ Class aastex701 Info: multicol was not loaded (OK!) on input line 19.
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count361
 \l__pdf_internal_box=\box90
-)
-No file report.aux.
+) (report.aux)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -503,7 +502,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
-(C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count362
 \scratchdimen=\dimen184
@@ -529,6 +528,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring ON on input line 19.
+ (report.out) (report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
@@ -543,206 +543,96 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
  (C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-Package natbib Warning: Citation `scoville1957hm' on page 1 undefined on input line 37.
-
-
-Package natbib Warning: Citation `okeefe1971spatialmap' on page 1 undefined on input line 37.
-
-
-Package natbib Warning: Citation `okeefe1978cognitivemap' on page 1 undefined on input line 37.
-
-
-Package natbib Warning: Citation `fournier2020distance' on page 1 undefined on input line 42.
-
-
-Package natbib Warning: Citation `oleary2019stability' on page 1 undefined on input line 42.
-
-
-Package natbib Warning: Citation `dombeck2010imaging' on page 1 undefined on input line 42.
-
-
-Package natbib Warning: Citation `ziv2013longterm' on page 1 undefined on input line 42.
-
-
-Package natbib Warning: Citation `grijseels2021choice' on page 1 undefined on input line 42.
-
-
-Package natbib Warning: Citation `Grieves2023RateMapQuant' on page 1 undefined on input line 42.
-
-[1{C:/Users/jacob/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-
-Package natbib Warning: Citation `bracewell2000fourier' on page 2 undefined on input line 50.
-
-
-Package natbib Warning: Citation `bracewell2000fourier' on page 2 undefined on input line 50.
-
-
-Package natbib Warning: Citation `bracewell2000fourier' on page 2 undefined on input line 54.
-
-
-Package natbib Warning: Citation `bergland1969guided' on page 2 undefined on input line 59.
-
-
-Package natbib Warning: Citation `lomb1976' on page 2 undefined on input line 63.
-
-
-Package natbib Warning: Citation `scargle1982' on page 2 undefined on input line 65.
-
-[2]
-
-Package natbib Warning: Citation `scargle1982' on page 3 undefined on input line 75.
-
-
-Package natbib Warning: Citation `sun2025osm' on page 3 undefined on input line 83.
-
-<vr_setup.png, id=36, 751.30687pt x 444.91219pt>
+) [1{C:/Users/jacob/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+<vr_setup.png, id=136, 751.30687pt x 444.91219pt>
 File: vr_setup.png Graphic file (type png)
 <use vr_setup.png>
 Package pdftex.def Info: vr_setup.png  used on input line 91.
 (pdftex.def)             Requested size: 246.29417pt x 145.85066pt.
-<cell_image.png, id=38, 1913.1475pt x 953.5625pt>
+<cell_image.png, id=138, 1913.1475pt x 953.5625pt>
 File: cell_image.png Graphic file (type png)
 <use cell_image.png>
 Package pdftex.def Info: cell_image.png  used on input line 95.
 (pdftex.def)             Requested size: 246.29417pt x 122.74525pt.
-<task_structure.png, id=39, 1014.03844pt x 246.1697pt>
+<task_structure.png, id=139, 1014.03844pt x 246.1697pt>
 File: task_structure.png Graphic file (type png)
 <use task_structure.png>
 Package pdftex.def Info: task_structure.png  used on input line 101.
 (pdftex.def)             Requested size: 502.85289pt x 122.07034pt.
-[3]
-
-Package natbib Warning: Citation `arzoumanian2018nanograv11yr' on page 4 undefined on input line 120.
-
-[4 <./vr_setup.png> <./cell_image.png (PNG copy)> <./task_structure.png>]
-<c1566s14per.png, id=55, 774.64406pt x 502.87875pt>
+ [3] [4 <./vr_setup.png> <./cell_image.png (PNG copy)> <./task_structure.png>]
+<c1566s14per.png, id=155, 774.64406pt x 502.87875pt>
 File: c1566s14per.png Graphic file (type png)
 <use c1566s14per.png>
 Package pdftex.def Info: c1566s14per.png  used on input line 183.
 (pdftex.def)             Requested size: 513.11743pt x 333.1057pt.
-
-
-LaTeX Warning: Reference `fig:best_cell_per' on page 5 undefined on input line 188.
-
-[5]
-
-LaTeX Warning: Reference `fig:best_cell_rm' on page 6 undefined on input line 191.
-
-<c1566s14rm.png, id=67, 2223.80812pt x 1248.16313pt>
+ [5]
+<c1566s14rm.png, id=166, 2223.80812pt x 1248.16313pt>
 File: c1566s14rm.png Graphic file (type png)
 <use c1566s14rm.png>
 Package pdftex.def Info: c1566s14rm.png  used on input line 195.
 (pdftex.def)             Requested size: 513.11743pt x 288.0047pt.
-
-LaTeX Warning: Reference `fig:worst_cell' on page 6 undefined on input line 202.
-
-
-LaTeX Warning: Reference `fig:worst_cell' on page 6 undefined on input line 202.
-
-[6 <./c1566s14per.png>]
-<c2749s14per.png, id=75, 1160.83687pt x 758.835pt>
+ [6 <./c1566s14per.png>]
+<c2749s14per.png, id=176, 1160.83687pt x 758.835pt>
 File: c2749s14per.png Graphic file (type png)
 <use c2749s14per.png>
 Package pdftex.def Info: c2749s14per.png  used on input line 209.
 (pdftex.def)             Requested size: 251.43036pt x 164.35054pt.
-<c2749s14rm.png, id=76, 2265.96562pt x 1250.42157pt>
+<c2749s14rm.png, id=177, 2265.96562pt x 1250.42157pt>
 File: c2749s14rm.png Graphic file (type png)
 <use c2749s14rm.png>
 Package pdftex.def Info: c2749s14rm.png  used on input line 213.
 (pdftex.def)             Requested size: 251.43036pt x 138.72975pt.
-
-
-LaTeX Warning: Reference `fig:snr_table' on page 7 undefined on input line 243.
-
-[7 <./c1566s14rm.png>]
-<c2621_day1_per.png, id=86, 874.01532pt x 572.89032pt>
+ [7 <./c1566s14rm.png>]
+<c2621_day1_per.png, id=187, 874.01532pt x 572.89032pt>
 File: c2621_day1_per.png Graphic file (type png)
 <use c2621_day1_per.png>
 Package pdftex.def Info: c2621_day1_per.png  used on input line 251.
 (pdftex.def)             Requested size: 246.29417pt x 161.4397pt.
-<c2621_day1_rm.png, id=87, 2198.2125pt x 1257.19687pt>
+<c2621_day1_rm.png, id=188, 2198.2125pt x 1257.19687pt>
 File: c2621_day1_rm.png Graphic file (type png)
 <use c2621_day1_rm.png>
 Package pdftex.def Info: c2621_day1_rm.png  used on input line 255.
 (pdftex.def)             Requested size: 246.29417pt x 140.84344pt.
-<c2621_day7_per.png, id=88, 890.5772pt x 576.65437pt>
+<c2621_day7_per.png, id=189, 890.5772pt x 576.65437pt>
 File: c2621_day7_per.png Graphic file (type png)
 <use c2621_day7_per.png>
 Package pdftex.def Info: c2621_day7_per.png  used on input line 263.
 (pdftex.def)             Requested size: 246.29417pt x 159.47354pt.
-<c2621_day7_rm.png, id=89, 2220.79688pt x 1245.9047pt>
+<c2621_day7_rm.png, id=190, 2220.79688pt x 1245.9047pt>
 File: c2621_day7_rm.png Graphic file (type png)
 <use c2621_day7_rm.png>
 Package pdftex.def Info: c2621_day7_rm.png  used on input line 267.
 (pdftex.def)             Requested size: 246.29417pt x 138.17159pt.
-<c2621_day14_per.png, id=90, 886.81313pt x 577.40718pt>
+<c2621_day14_per.png, id=191, 886.81313pt x 577.40718pt>
 File: c2621_day14_per.png Graphic file (type png)
 <use c2621_day14_per.png>
 Package pdftex.def Info: c2621_day14_per.png  used on input line 275.
 (pdftex.def)             Requested size: 246.29417pt x 160.36014pt.
-<c2621_day14_rm.png, id=91, 2247.89813pt x 1257.94969pt>
+<c2621_day14_rm.png, id=192, 2247.89813pt x 1257.94969pt>
 File: c2621_day14_rm.png Graphic file (type png)
 <use c2621_day14_rm.png>
 Package pdftex.def Info: c2621_day14_rm.png  used on input line 279.
 (pdftex.def)             Requested size: 246.29417pt x 137.81824pt.
-
-
-Package natbib Warning: Citation `ziv2013longterm' on page 8 undefined on input line 297.
-
-
-LaTeX Warning: Reference `fig:rep_drift_cell2621' on page 8 undefined on input line 297.
-
-[8 <./c2749s14per.png> <./c2749s14rm.png>] [9 <./c2621_day1_per.png> <./c2621_day1_rm.png> <./c2621_day7_per.png> <./c2621_day7_rm.png> <./c2621_day14_per.png> <./c2621_day14_rm.png>] [10]
-
-Package natbib Warning: Citation `grijseels2021choice' on page 11 undefined on input line 312.
-
-
-Package natbib Warning: Citation `okeefe1993phase' on page 11 undefined on input line 314.
-
-(report.bbl [11]) [12]
-
-Package natbib Warning: There were undefined citations.
-
-(report.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+ [8 <./c2749s14per.png> <./c2749s14rm.png>] [9 <./c2621_day1_per.png> <./c2621_day1_rm.png> <./c2621_day7_per.png> <./c2621_day7_rm.png> <./c2621_day14_per.png> <./c2621_day14_rm.png>] [10] (report.bbl [11]) [12] (report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  6B81E879D7E7D9AF4AD942AB09A41656;3473.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 6B81E879D7E7D9AF4AD942AB09A41656;3473.
  ) 
 Here is how much of TeX's memory you used:
- 13584 strings out of 474486
- 203803 string characters out of 5743755
- 1943542 words of memory out of 5000000
- 35647 multiletter control sequences out of 15000+600000
- 570949 words of font info for 88 fonts, out of 8000000 for 9000
+ 13610 strings out of 474486
+ 204557 string characters out of 5743755
+ 1944542 words of memory out of 5000000
+ 35668 multiletter control sequences out of 15000+600000
+ 570640 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,8n,93p,1799b,631s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on report.pdf (12 pages, 3297945 bytes).
+ 90i,8n,93p,1818b,631s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on report.pdf (12 pages, 3301942 bytes).
 PDF statistics:
- 237 PDF objects out of 1000 (max. 8388607)
+ 317 PDF objects out of 1000 (max. 8388607)
  62 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
