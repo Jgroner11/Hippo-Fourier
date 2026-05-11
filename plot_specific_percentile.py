@@ -26,7 +26,7 @@ from helpers import (
 
 # ------------------ USER VARIABLES ------------------
 n_cells = 3      # number of cells to plot
-percentile = 10    # percentile in DAY 14 ranking (0=best, 100=worst)
+percentile = 10    # percentile in DAY 14 SNR ranking (100=best, 0=worst)
 # ----------------------------------------------------
 
 track_length = 180.0

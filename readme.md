@@ -30,9 +30,7 @@ Plots the cell's raw spike signal against cumulative distance traveled. This is 
 
 Computes a Lomb-Scargle periodogram of the cell's activity with respect to position. The important spatial frequency is:
 
-```text
-1 / 180 cm^-1 = 0.00555556 cm^-1
-```
+1 / 180 cm<sup>-1</sup> ≈ 0.0056 cm<sup>-1</sup>
 
 A strong peak at this frequency means the cell tends to fire once per lap of the repeating 180 cm virtual track. SNR is computed from how strongly this target-frequency peak stands out from the rest of the periodogram.
 

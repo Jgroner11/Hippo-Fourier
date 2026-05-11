@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex report"] 1778533878.00082 "report.aux" "report.bbl" "report" 1778533883.94248 0
+["bibtex report"] 1778533878.00082 "report.aux" "report.bbl" "report" 1778541272.43569 0
   "./aasjournalv7.bst" 1770270388 38788 af6489f4b275f4b9c2f0b12c5ef4a113 ""
   "./references.bib" 1770270620 5262 4e8f6a47780a85e031b72df54d7f795b ""
-  "report.aux" 1778533882 5461 a9ad99a4005965892da5b4e222de1f59 "pdflatex"
+  "report.aux" 1778541271 5461 a9ad99a4005965892da5b4e222de1f59 "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
   (rewritten before read)
-["pdflatex"] 1778533878.54394 "c:/Users/jacob/OneDrive/Desktop/School/Astro4523/Hippo-Fourier/report/report.tex" "report.pdf" "report" 1778533883.9435 0
+["pdflatex"] 1778541269.10744 "c:/Users/jacob/OneDrive/Desktop/School/Astro4523/Hippo-Fourier/report/report.tex" "report.pdf" "report" 1778541272.43648 0
   "C:/Users/jacob/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1770270518 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/jacob/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1747439290 24225046 04d6c59dc35eaad345c990999678bc80 ""
   "C:/Users/jacob/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/helvetic/phvr.tfm" 1136790254 2504 ba6584b616b92101c768b6c4ffb32dd0 ""
@@ -133,12 +133,12 @@
   "c2621_day7_rm.png" 1770269394 158159 582b3399698fd43778266d4216c6ab1d ""
   "c2749s14per.png" 1770269400 201203 fbb71ef996d06bd41008f1dd43e4b3f3 ""
   "c2749s14rm.png" 1770269403 228273 c5786dde216a1bda44ae69e097cf40e8 ""
-  "c:/Users/jacob/OneDrive/Desktop/School/Astro4523/Hippo-Fourier/report/report.tex" 1770270559 32499 afd2023ee28e1b4e254e07d3f777d644 ""
+  "c:/Users/jacob/OneDrive/Desktop/School/Astro4523/Hippo-Fourier/report/report.tex" 1778541106 32805 edff707dfe4637b4e6c6d586ade5292a ""
   "cell_image.png" 1770269405 1205702 e8d81288b950e9ff95b556b2c0a122ef ""
-  "report.aux" 1778533882 5461 a9ad99a4005965892da5b4e222de1f59 "pdflatex"
+  "report.aux" 1778541271 5461 a9ad99a4005965892da5b4e222de1f59 "pdflatex"
   "report.bbl" 1778533878 5153 09851d949a86d25178497f53609e737f "bibtex report"
-  "report.out" 1778533882 3473 6b81e879d7e7d9af4ad942ab09a41656 "pdflatex"
-  "report.tex" 1770270559 32499 afd2023ee28e1b4e254e07d3f777d644 ""
+  "report.out" 1778541271 3473 6b81e879d7e7d9af4ad942ab09a41656 "pdflatex"
+  "report.tex" 1778541106 32805 edff707dfe4637b4e6c6d586ade5292a ""
   "task_structure.png" 1770269408 181229 a56069a59fbaa4d911821744fa3f7624 ""
   "vr_setup.png" 1770269412 336438 47e412195d8da7d16ba95555899c5420 ""
   (generated)
