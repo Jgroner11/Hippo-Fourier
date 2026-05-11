@@ -5,6 +5,8 @@ This repository contains code and results for a class project on **detecting hip
 The code is **not intended to be run**; it documents the analysis pipeline used to generate the figures and summary statistics.  
 The primary outputs are in the `results/` directory.
 
+The full project writeup is available at [`report/report.pdf`](report/report.pdf).
+
 ---
 
 ## Idea (brief)
@@ -23,6 +25,7 @@ The primary outputs are in the `results/` directory.
 - `helpers.py` — Lomb–Scargle, SNR, and plotting utilities  
 - `multisession_place_cell_ranking.py` — ranks cells across Day 1 / 7 / 14  
 - `plot_specific_percentile.py` — visualizes cells at chosen SNR percentiles  
+- `report/` — final project report PDF and LaTeX source
 - `results/` — all figures and summary statistics
 
 ---
