@@ -1,1 +1,3 @@
 *.feather
+__pycache__/
+.vscode/

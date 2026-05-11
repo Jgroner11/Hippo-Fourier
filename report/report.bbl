@@ -1,0 +1,111 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\href{#1}{#1}}
+\providecommand{\dodoi}[1]{doi:~\href{http://doi.org/#1}{\nolinkurl{#1}}}
+\providecommand{\doeprint}[1]{\href{http://ascl.net/#1}{\nolinkurl{http://ascl.net/#1}}}
+\providecommand{\doarXiv}[1]{\href{https://arxiv.org/abs/#1}{\nolinkurl{https://arxiv.org/abs/#1}}}
+
+% type= article
+\bibitem[{Z. Arzoumanian {et~al.}(2018)Arzoumanian, Baker, Brazier,
+  Burke-Spolaor, Chamberlin, Chatterjee, Christy, Cordes,
+  {et~al.}}]{arzoumanian2018nanograv11yr}
+Arzoumanian, Z., Baker, P.~T., Brazier, A., {et~al.} 2018, \bibinfo{title}{The
+  NANOGrav 11 Year Data Set: Pulsar-timing Constraints on the Stochastic
+  Gravitational-wave Background,} The Astrophysical Journal, 859, 47,
+  \dodoi{10.3847/1538-4357/aabd3b}
+
+% type= article
+\bibitem[{G.~D. Bergland(1969)Bergland}]{bergland1969guided}
+Bergland, G.~D. 1969, \bibinfo{title}{A Guided Tour of the Fast Fourier
+  Transform,} IEEE Spectrum, 6, 41
+
+% type= book
+\bibitem[{R.~N. Bracewell(2000)Bracewell}]{bracewell2000fourier}
+Bracewell, R.~N. 2000, The Fourier Transform and Its Applications, 3rd edn.
+  (McGraw--Hill)
+
+% type= article
+\bibitem[{D.~A. Dombeck {et~al.}(2010)Dombeck, Harvey, Tian, Looger, \&
+  Tank}]{dombeck2010imaging}
+Dombeck, D.~A., Harvey, C.~D., Tian, L., Looger, L.~L., \& Tank, D.~W. 2010,
+  \bibinfo{title}{Functional imaging of hippocampal place cells at cellular
+  resolution during virtual navigation,} Nature Neuroscience, 13, 1433
+
+% type= article
+\bibitem[{J. Fournier {et~al.}(2020)Fournier, Saleem, Diamanti, Wells, Harris,
+  \& Carandini}]{fournier2020distance}
+Fournier, J., Saleem, A.~B., Diamanti, E.~M., {et~al.} 2020,
+  \bibinfo{title}{Mouse visual cortex is modulated by distance traveled and by
+  theta oscillations,} Current Biology, 30, 3431
+
+% type= article
+\bibitem[{R.~M. Grieves(2023)Grieves}]{Grieves2023RateMapQuant}
+Grieves, R.~M. 2023, \bibinfo{title}{Estimating neuronal firing density: A
+  quantitative analysis of firing rate map algorithms,} PLOS Computational
+  Biology, 19, e1011763, \dodoi{10.1371/journal.pcbi.1011763}
+
+% type= article
+\bibitem[{D.~M. Grijseels {et~al.}(2021)Grijseels, Shaw, Barry, \&
+  Hall}]{grijseels2021choice}
+Grijseels, D.~M., Shaw, K., Barry, C., \& Hall, C.~N. 2021,
+  \bibinfo{title}{Choice of Method of Place Cell Classification Determines the
+  Population of Cells Identified,} PLOS Computational Biology, 17, 1,
+  \dodoi{10.1371/journal.pcbi.1008835}
+
+% type= article
+\bibitem[{N.~R. Lomb(1976)Lomb}]{lomb1976}
+Lomb, N.~R. 1976, \bibinfo{title}{Least-Squares Frequency Analysis of Unequally
+  Spaced Data,} Astrophysics and Space Science, 39, 447
+
+% type= article
+\bibitem[{J. O'Keefe \& J. Dostrovsky(1971)O'Keefe \&
+  Dostrovsky}]{okeefe1971spatialmap}
+O'Keefe, J., \& Dostrovsky, J. 1971, \bibinfo{title}{The Hippocampus as a
+  Spatial Map: Preliminary Evidence from Unit Activity in the Freely-Moving
+  Rat,} Brain Research, 34, 171, \dodoi{10.1016/0006-8993(71)90358-1}
+
+% type= book
+\bibitem[{J. O'Keefe \& L. Nadel(1978)O'Keefe \&
+  Nadel}]{okeefe1978cognitivemap}
+O'Keefe, J., \& Nadel, L. 1978, The Hippocampus as a Cognitive Map (Oxford:
+  Oxford University Press)
+
+% type= article
+\bibitem[{J. O'Keefe \& M.~L. Recce(1993)O'Keefe \& Recce}]{okeefe1993phase}
+O'Keefe, J., \& Recce, M.~L. 1993, \bibinfo{title}{Phase relationship between
+  hippocampal place units and the EEG theta rhythm,} Hippocampus, 3, 317
+
+% type= article
+\bibitem[{A. O'Leary {et~al.}(2019)O'Leary, Muessig, Wills, Cacucci, \&
+  Barry}]{oleary2019stability}
+O'Leary, A., Muessig, L., Wills, T., Cacucci, F., \& Barry, C. 2019,
+  \bibinfo{title}{Cortical and cortico-hippocampal circuits: spatial navigation
+  III,} Society for Neuroscience Abstracts
+
+% type= article
+\bibitem[{J.~D. Scargle(1982)Scargle}]{scargle1982}
+Scargle, J.~D. 1982, \bibinfo{title}{Studies in Astronomical Time Series
+  Analysis. {II}. Statistical Aspects of Spectral Analysis of Unequally Spaced
+  Data,} The Astrophysical Journal, 263, 835
+
+% type= article
+\bibitem[{W.~B. Scoville \& B. Milner(1957)Scoville \& Milner}]{scoville1957hm}
+Scoville, W.~B., \& Milner, B. 1957, \bibinfo{title}{Loss of Recent Memory
+  after Bilateral Hippocampal Lesions,} Journal of Neurology, Neurosurgery, and
+  Psychiatry, 20, 11, \dodoi{10.1136/jnnp.20.1.11}
+
+% type= article
+\bibitem[{W. Sun {et~al.}(2025)Sun, Winnubst, Natrajan, Lai, Kajikawa, Bast,
+  Michaelos, Gattoni, Stringer, Flickinger, Fitzgerald, \&
+  Spruston}]{sun2025osm}
+Sun, W., Winnubst, J., Natrajan, M., {et~al.} 2025, \bibinfo{title}{Learning
+  produces an orthogonalized state machine in the hippocampus,} Nature, 640,
+  165, \dodoi{10.1038/s41586-024-08548-w}
+
+% type= article
+\bibitem[{Y. Ziv {et~al.}(2013)Ziv, Burns, Cocker, Hamel, Ghosh, Kitch, \&
+  Schnitzer}]{ziv2013longterm}
+Ziv, Y., Burns, L.~D., Cocker, E.~D., {et~al.} 2013, \bibinfo{title}{Long-term
+  dynamics of CA1 hippocampal place codes,} Nature Neuroscience, 16, 264
+
+\end{thebibliography}
